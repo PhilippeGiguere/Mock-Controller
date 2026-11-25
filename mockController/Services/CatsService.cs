@@ -16,7 +16,7 @@ namespace mock.depart.Services
 		{
 		}
 
-		public int ChiffreChanceux()
+		public virtual int ChiffreChanceux()
 		{
 			return random.Next(1, 101); // Génère un nombre aléatoire entre 1 et 100
 		}

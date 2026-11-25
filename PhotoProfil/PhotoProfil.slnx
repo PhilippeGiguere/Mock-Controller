@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PhotoProfil/PhotoProfil.csproj" />
+  <Project Path="PhotoProfil.Tests/PhotoProfil.Tests.csproj" />
+</Solution>
